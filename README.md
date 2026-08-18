@@ -183,4 +183,8 @@ The app will be available at `http://localhost:8501`
 
 ## Live Deployment
 
-**Streamlit Community Cloud Deployment:** *(Link to be added after deployment)*
+**🚀 Streamlit Community Cloud Deployment:**
+
+🔗 **[https://bitsmlassignment-2025da04241.streamlit.app/](https://bitsmlassignment-2025da04241.streamlit.app/)**
+
+The application is live and ready for use. Upload your test data, select a model, and explore predictions in real-time!
