@@ -2,11 +2,15 @@
 
 ## a. Problem Statement
 
-This project aims to predict whether a client will subscribe to a term deposit with a Portuguese bank. The target variable is binary (`yes`/`no`), and the prediction is based on client demographic, account, and campaign-related features.
+Predict whether a client will subscribe to a term deposit using multiple classification models, build an interactive Streamlit web application, and deploy it on Streamlit Community Cloud for stakeholder evaluation.
 
-**Prediction Goal:** Given a client's information, determine the likelihood of their subscription to a term deposit.
+**Goals:**
+1. Implement 5 classification models on 45,211 bank marketing records (16 features, binary target)
+2. Evaluate models with 6 metrics (Accuracy, AUC, Precision, Recall, F1, MCC)
+3. Build interactive Streamlit app for real-time model comparison
+4. Deploy on cloud for accessibility and real-world evaluation
 
-The bank wants to optimize marketing campaigns by identifying clients most likely to subscribe, thereby reducing unnecessary outreach and improving ROI.
+**Outcome:** Production-ready ML deployment demonstrating end-to-end workflow from data preprocessing to cloud deployment.
 
 ---
 
